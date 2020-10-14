@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---------------
--  I’m currently working on [Barybians-Desktop-Client](https://github.com/alexeipolovin/Barybians-Desktop-Client)
+- 🔭 I’m currently working on [Barybians-Desktop-Client](https://github.com/alexeipolovin/Barybians-Desktop-Client)
 - 🌱 I’m currently learning C++ and Qt
 - 👯 I’m looking to collaborate with Qt developers
 ### 📫 How to reach me
