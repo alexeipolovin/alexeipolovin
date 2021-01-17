@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with Qt developers
 ### 📫 How to reach me
 --------------------
-[<img align="left" display="inline-block" width="22px" alt="vkontakte" src="https://image.flaticon.com/icons/svg/145/145813.svg">](https://vk.com/skdfhsdjglksdhjg)
+[<img align="left" display="inline-block" width="22px" alt="vkontakte" src="https://image.flaticon.com/icons/svg/145/145813.svg">](https://vk.com/alexeipolovin)
 
 [<img align="left" display="inline-block" width="22px" alt="gmail" src="https://image.flaticon.com/icons/svg/888/888853.svg">](mailto:alexeipolovin@gmail.com)
 
